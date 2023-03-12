@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Binaries
+**/.venv*
+
+# Python project
+.pdm.toml
+pdm.lock
+
 # C extensions
 *.so
 
